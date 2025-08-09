@@ -4756,3 +4756,10 @@ section.post p {
 #footer .actions .primary:hover {
     background-color: #033d57 !important;
 }
+
+
+/* Center the Send Message button in footer form */
+#footer .actions {
+    display: flex;
+    justify-content: center;
+}
